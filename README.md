@@ -28,3 +28,9 @@ To verify the scripts on your local Ubuntu environment, follow these steps:
 
 git clone https://github.com/rishabhkumarsudhansu-design/oss-audit---24BSA10079-.git
 cd oss-audit---24BSA10079-
+
+# Set permissions for all scripts
+chmod +x *.sh
+
+# Then you can run any of them, like the identity script:
+./script1.sh
