@@ -2,7 +2,9 @@
 Open Source Software Audit: VLC Media Player
 
 Student Name:Rishabh Kumar Sudhansu
+
 Registration Number:24BSA10079
+
 Course:Open Source Software (OSS)
 
 Project Overview This repository serves as the practical documentation for my Open Source Software Audit project. For this assignment, I chose to audit VLC Media Player, a cornerstone of the FOSS community. The project explores the software's history (originating at École Centrale Paris), its licensing under the GNU GPL v2, and its technical footprint on a Linux system.
@@ -24,6 +26,5 @@ script5.sh (OSS Manifesto): An interactive script that captures user reflections
 How to Run the Scripts
 To verify the scripts on your local Ubuntu environment, follow these steps:
 
-Clone the repository:
-git clone [https://github.com/DashkratSrivastava/oss-audit--24BCE11239-.git](https://github.com/DashkratSrivastava/oss-audit--24BCE11239-.git)
-cd oss-audit--24BCE11239-
+git clone https://github.com/rishabhkumarsudhansu-design/oss-audit---24BSA10079-.git
+cd oss-audit---24BSA10079-
